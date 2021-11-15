@@ -1,7 +1,7 @@
 package Interface;
 
 interface WaterBottle {
-    String color = "Blue"
+    String color = "Blue";
 
     void fill();
 
